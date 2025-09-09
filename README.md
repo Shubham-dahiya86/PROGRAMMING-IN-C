@@ -23,3 +23,9 @@ Program 7 - Write a Program to calculate the area and perimeter of a rectangle b
 ⁠Program 8 - Write a program to Convert temperature from Celsius to Fahrenheit using the formula: F = (C * 9/5) + 32.
 <br>
 Program 9 - Write a program to read a four digit integer and print the sum of its digits.
+<br>
+Program 10 - Write a program to print the size of various data types in C.
+<br>
+Program 11 - Given three values, write a program to read three values from keyboard and print out the largest of them.
+<br>
+Program 12 - Write a C program that takes an integer input and uses the bitwise AND (&) operator along with a ternary operator to check whether the number is even or odd.

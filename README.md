@@ -29,3 +29,26 @@ Program 10 - Write a program to print the size of various data types in C.
 Program 11 - Given three values, write a program to read three values from keyboard and print out the largest of them.
 <br>
 Program 12 - Write a C program that takes an integer input and uses the bitwise AND (&) operator along with a ternary operator to check whether the number is even or odd.
+<br>
+Program 13 - Write a C program that takes an integer input from the user and checks whether the number is even or odd using an if-else statement.
+<br>
+Program 14 -  Using nested if
+              Write a C program to take a person’s age as input and check if they are eligible to vote.
+              If the age is 18 or more, print "Eligible to vote".
+              If the age is less than 18, check again:
+              If the age is less than 0, print "Invalid age".
+              Otherwise, print "Not eligible to vote".
+<br>
+Program 15 -  Using else-if ladder
+              Write a C program that asks the user to enter marks (0–100) and assigns a grade based on the following conditions:
+              90–100  Grade A
+              75–89  Grade B
+              50–74  Grade C
+              Below 50  Grade F
+<br>
+Program 16 - Write a C program that takes a number (1–7) as input and prints the corresponding day of the week using a switch case.
+             1  Monday
+             2 Tuesday, and so on
+             If the user enters a number outside 1–7, print "Invalid input"
+<br>
+Program 17 -Write a C program that takes two numbers and an operator (+, -, *, /) from the user and performs the operation using a switch case.

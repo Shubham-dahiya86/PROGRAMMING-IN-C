@@ -62,4 +62,18 @@ Example: Input 5029, Output 4
 <br>
 Program 21 - Write a C program to find the factorial of a number using a while loop.
 <br>
-Program 22 -Write a C program for a simple calculator that repeatedly asks the user for two numbers and an operation (+, -, *, /) until the user chooses to exit. Must use a do while loop to repeat until exit.
+Program 22 - Write a C program for a simple calculator that repeatedly asks the user for two numbers and an operation (+, -, *, /) until the user chooses to exit. Must use a do while loop to repeat until exit.
+<br>
+Program 23 - Write a C program to find the maximum and minimum elements in an array using functions.
+<br>
+Program 24 - Write a C program to reverse the elements of an array using a function.
+<br>
+Program 25 - Write a C program to calculate the average of n numbers stored in an array using a function.
+<br>
+Program 26 - Write a C program to count how many even and odd numbers are present in an array using functions.
+<br>
+Program 27 - Write a C program to read a string from the user and print it in reverse order using a character array.
+<br>
+Program 28 - Write a C program to count the number of vowels, consonants, digits, and special characters in a given character array (string).
+<br>
+Program 29 - Write a recursive function in C to find the factorial of a given number.
